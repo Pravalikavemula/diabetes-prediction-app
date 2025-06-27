@@ -16,7 +16,7 @@ Pima Indian Diabetes Dataset from [UCI ML Repository](https://www.kaggle.com/dat
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/diabetes_prediction_project.git
+git clone https://github.com/Pravalikavemula/diabetes_prediction_project.git
 cd diabetes_prediction_project
 
 #testing
