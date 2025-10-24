@@ -1,3 +1,5 @@
+THe Diabetics prediction app link: https://pravalikavemula-diabetes-prediction-app-app-r8m9gv.streamlit.app/
+
 # Diabetes Prediction Project 🩺
 
 A machine learning project that predicts whether a person has diabetes based on medical attributes using Python and Scikit-Learn.
